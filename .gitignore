@@ -1,2 +1,5 @@
 #Untrack Folders
 SV\ files/work/
+
+#Untrack files
+*.wlf

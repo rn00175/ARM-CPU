@@ -1,8 +1,8 @@
 #Untrack Folders
 SV\ files/work/
+SV\ files/transcript
 
 #Untrack files
 *.wlf
-SV\ files/transcript
 *.bat
 *wave.do
